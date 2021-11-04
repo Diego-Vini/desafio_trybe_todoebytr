@@ -1,7 +1,7 @@
 <h1 align="center">Desafio Trybe - Todo Ebytr</h1>
 
 ## Descrição do projeto
-<p>Projeto Todo Ebytr é uma aplicação desenvolvida com intuito de melhorar a produtividade dos funcionários da empresa, sendo possivel organizar as tarefas a serem realizada no dia a dia</p>
+<p>Projeto Todo Ebytr é uma aplicação desenvolvida com intuito de melhorar a produtividade dos funcionários da empresa Ebytr, dentro dela será possivel: listar, adicionar, alterar, excluir e indicar o status de tarefas de um determinado funcionário.</p>
 
 #Status do projeto
 <h4 align="center"> 
